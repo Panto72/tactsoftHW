@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    background-color: bisque;
+}
+.banner{
+    background-image: url(./img/wallpapersden.com_anonymous-hacker-working_2560x1600.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+.navbar {
+    display: flex;
+    justify-content: center; 
+    font-size: 40px;
+    font-style: italic;
+    padding: 20px;
+}
+.contents a{
+    color: aliceblue;
+    text-decoration: none;
+    margin: 30px;
+}
+.logo img{
+    height: 350px;
+    width: auto;
+    margin-left: 650px;
+    padding-top: 50px;
+}
+
+.hedading{
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    padding: 40px;
+}
+.S_Names img{
+    height: 400px;
+    width: 400px;
+    padding: 100px;
+}
+.S_Names{
+    display: flex;
+    justify-content: center;
+}
+.social_links img{
+    height: 200px;
+    width: 200px;
+    padding: 50px;
+}
+.social_links{
+    display: flex;
+    justify-content: center;
+}
+.thirdpart{
+    background-color: white;
+}
+.hed2{
+    text-align: center;
+    font-size: 45px;
+    font-style: italic;
+    padding: 20px;
+}
+footer{
+    background-color: rgb(216, 178, 178);
+    text-align: center;
+    padding: 30px;
+}
